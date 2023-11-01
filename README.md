@@ -1,6 +1,6 @@
 ## Hello, there ✌
 <a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="300" height="230" align="right" padding-left='20px' alt="Hello, there!">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="280" height="200" align="right" padding-left='20px' alt="Hello, there!">
 </a>
 
 Me chamo Paulo, Sou um jovem programador ,até o momento tenho maior conhecimento no Front-end , também tenho uma boa noção sobre banco de dados e busco todos os dias ter um novo aprendizado.
@@ -8,7 +8,7 @@ Me chamo Paulo, Sou um jovem programador ,até o momento tenho maior conheciment
 Atualmente estou focado em aprender novas tecnologias , tanto no Front-end quanto no Back-end,e finalizando minha gradução em Analise e desenvolvimento de sistemas. Estou buscando meu primeiro emprego  🚀
 <br><br>
 🔎 Procurando novas oportunidades <br>
-📍   Rio de Janeiro - RJ<br>
+📍   Rio de Janeiro - RJ<br>  
 
 ## Tecnologias que possuo conhecimento 🛠
 <div style="display: inline_block"><br>  
@@ -25,5 +25,16 @@ Atualmente estou focado em aprender novas tecnologias , tanto no Front-end quant
 
 ## Onde me encontrar 👇🏼
 
-Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉
+Fique à vontade para entrar em contato comigo pelo instagram ou se conectar comigo no LinkedIn 😉
 
+<div>
+<a href="https://instagram.com/paulo.16pc" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/julianaconde/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+</div>
+<br>
