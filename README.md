@@ -1,7 +1,6 @@
 ## Hello, there ✌
-<a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="240" height="160" align="right" padding-left='20px' alt="Hello, there!">
-</a>
+
+
 
 Me chamo Paulo, Sou um jovem programador ,até o momento tenho maior conhecimento no Front-end , também tenho uma boa noção sobre banco de dados e busco todos os dias ter um novo aprendizado.
   
