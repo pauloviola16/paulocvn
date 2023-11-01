@@ -1,9 +1,29 @@
+## Hello, there ✌
+<a href="#">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
 
+Me chamo Paulo, Sou um jovem programador ,até o momento tenho maior conhecimento no Front-end , também tenho uma boa noção sobre banco de dados e busco todos os dias ter um novo aprendizado.
+  
+Atualmente estou focado em aprender novas tecnologias , tanto no Front-end quanto no Back-end,e finalizando minha gradução em Analise e desenvolvimento de sistemas. Estou buscando meu primeiro emprego  🚀
+<br><br>
+🔎 Procurando novas oportunidades <br>
+📍   Rio de Janeiro - RJ<br>
 
-    <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+## Tecnologias que possuo conhecimento 🛠
+<div style="display: inline_block"><br>  
+<img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 
+<img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="300px" align="right">
+<br>
+<br>
+<br>
 
+## Onde me encontrar 👇🏼
 
-- 📫 How to reach me: pcviola.dev@gmail.com
+Fique à vontade para entrar em contato comigo por e-mail ou se conectar comigo no LinkedIn 😉
 
--->
