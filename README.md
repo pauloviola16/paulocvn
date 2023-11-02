@@ -31,7 +31,7 @@ Fique à vontade para entrar em contato comigo pelo instagram ou se conectar com
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/julianaconde/" target="_blank">
+<a href="https://www.linkedin.com/in/paulo-viola-464641288/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
