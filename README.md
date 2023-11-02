@@ -27,9 +27,12 @@ Atualmente estou focado em aprender novas tecnologias , tanto no Front-end quant
 Fique à vontade para entrar em contato comigo pelo instagram ou se conectar comigo no LinkedIn 😉
 
 <div>
+
 <a href="https://instagram.com/paulo.16pc" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+
+
 
 <a href="https://www.linkedin.com/in/paulo-viola-464641288/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
