@@ -2,7 +2,7 @@
 
 
 
-Me chamo Paulo, Sou um jovem programador ,até o momento tenho maior conhecimento no Front-end , também tenho uma boa noção sobre banco de dados e busco todos os dias ter um novo aprendizado.
+Me chamo Paulo, sou um jovem programador ,até o momento tenho maior conhecimento no Front-end , também tenho uma boa noção sobre banco de dados e busco todos os dias ter um novo aprendizado.
   
 Atualmente estou focado em aprender novas tecnologias , tanto no Front-end quanto no Back-end,e finalizando minha gradução em Analise e desenvolvimento de sistemas. Estou buscando meu primeiro emprego  🚀
 <br><br>
